@@ -1,6 +1,4 @@
-# C++ Calculator
 
-A beginner calculator project written in C++.
 #include<iostream>
 using namespace std;
 int main()
@@ -36,14 +34,3 @@ int main()
 }
 }
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-## Language
-C++
-
-## Author
-Laiba Farid

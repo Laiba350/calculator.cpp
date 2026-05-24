@@ -1,8 +1,12 @@
 
 #include<iostream>
+
 using namespace std;
+
 int main()
+
 {
+
 	char op;
 	float value1,value2;
 	cout<<"enter the number 1: ";
